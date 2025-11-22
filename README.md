@@ -40,9 +40,21 @@ Build an interactive sales dashboard that answers core business questions: reven
 
 ![Dashboard Screenshot](powerbi/screenshots/dashboard_screenshot.png)
 
+## How to run (no terminal needed)
 
-## How to run (local)
-1. Clone the repo:
-```bash
-git clone git@github.com:MisabAbdulRashid/sales-dashboard-analytics.git
-cd sales-dashboard-analytics
+### 1. Run SQL transformations
+You can run all SQL queries directly in the browser:
+
+- Open https://sqliteonline.com
+- Paste the contents of `sql/schema_and_seed.sql` → Run (creates tables)
+- Paste `sql/queries.sql` in a new tab → Run (aggregates the data)
+
+### 2. View or edit the dashboard
+- Download `data/sample_sales.csv`
+- Open Power BI Desktop
+- Import the CSV and recreate visuals
+- Or open the screenshot in `powerbi/screenshots/`
+
+### 3. Review the analysis steps
+Open `analysis/EDA.md` for EDA logic, preprocessing, and insight generation.
+
