@@ -17,7 +17,7 @@ Build an interactive sales dashboard that answers core business questions: reven
 ## Repo structure
 - `data/sample_sales.csv` — small sample dataset for quick demos
 - `sql/queries.sql` — SQL used to transform / aggregate data
-- `analysis/EDA.md` — EDA notebook-style steps (replace with `.ipynb` if preferred)
+- `analysis/EDA.md` — EDA notebook-style steps 
 - `powerbi/SalesDashboard.pbix` — Power BI file or `powerbi/screenshots/` for images
 
 
