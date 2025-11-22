@@ -20,6 +20,10 @@ Build an interactive sales dashboard that answers core business questions: reven
 - `analysis/EDA.md` — EDA notebook-style steps 
 - `powerbi/SalesDashboard.pbix` — Power BI file or `powerbi/screenshots/` for images
 
+## Dashboard Preview
+
+![Dashboard Screenshot](powerbi/screenshots/dashboard_screenshot.png)
+
 
 ## How to run (local)
 1. Clone the repo:
