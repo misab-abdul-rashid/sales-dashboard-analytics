@@ -1,1 +1,7 @@
+order_id,order_date,customer_id,product_id,product_name,category,qty,price,total_amount,region
+1001,2024-08-01,501,2001,Alpha Shoe,Footwear,1,49.99,49.99,South
+1002,2024-08-01,502,2002,Beta Shirt,Apparel,2,19.99,39.98,North
+1003,2024-08-02,501,2003,Gamma Cap,Accessories,1,9.99,9.99,South
+1004,2024-08-03,503,2001,Alpha Shoe,Footwear,1,49.99,49.99,West
+1005,2024-08-04,504,2004,Delta Watch,Accessories,1,199.99,199.99,East
 
